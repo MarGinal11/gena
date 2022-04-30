@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:text="kaif">
+
+        </TextView>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="knopka">
+
+        </Button>
+    </TableRow>
+</TableLayout>

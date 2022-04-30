@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="100dp">
+
+        </ImageView>
+
+        <TextView
+            android:layout_width="130dp"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:text="sanya"
+            android:textAlignment="center">
+        </TextView>
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="100dp"
+            android:text="salo">
+        </Button>
+    </LinearLayout>
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        android:text="baton">
+    </Button>
+
+    <Switch
+        android:layout_width="130dp"
+        android:layout_height="100dp">
+    </Switch>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="130dp"
+            android:layout_height="100dp"
+            android:text="salo">
+        </Button>
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:text="sanya"
+            android:textAlignment="center">
+        </TextView>
+
+        <ImageView
+            android:layout_width="140dp"
+            android:layout_height="100dp">
+        </ImageView>
+
+    </LinearLayout>
+
+    <AnalogClock
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></AnalogClock>
+</LinearLayout>
